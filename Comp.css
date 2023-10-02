@@ -1,0 +1,8 @@
+.presentation {
+  display: flex; /* or display: grid; for a grid layout */
+  /* Add any additional styling for the presentation container */
+}
+
+.slide {
+  /* Add styling for individual slides, e.g., margin, padding, etc. */
+}
